@@ -2,6 +2,8 @@
 Small python script to perform a secret santa drawing
 
 ## Configuration
+The following configurations can be applied in the `config.py`
+
 |      Name      |                                    Description                                    |
 |---------------:|:----------------------------------------------------------------------------------|
 |  output_folder |                            Folder to write output files                           |
