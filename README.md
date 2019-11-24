@@ -2,8 +2,9 @@
 Small python script to perform a secret santa drawing
 
 ## Configuration
+|      Name      |                                    Description                                    |
+|---------------:|:----------------------------------------------------------------------------------|
 |  output_folder |                            Folder to write output files                           |
-|:--------------:|:---------------------------------------------------------------------------------:|
 |  participants  |                            Participants of the drawing                            |
 |  not_together  |                     Partners that should not be drawn together                    |
 | output_message | The message that is outputed in the files (Available placeholders: `name`, `partner`) |
